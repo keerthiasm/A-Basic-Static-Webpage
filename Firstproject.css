@@ -1,0 +1,94 @@
+
+td{
+
+height: 150px;
+width: 150px;
+font-family: 'Indie Flower', cursive;
+border: 6px solid white;
+text color: black;
+margin: auto;
+text-align: center;
+margin: 0px;
+
+
+}
+#one{
+background-color: #5BC0EB;
+
+}
+
+#two{
+background-color: #FDE74C;
+
+}
+
+#three{
+background-color: #9BC53D;
+
+}
+#four{
+background-color: #E55934;
+
+}
+#five{
+
+  background-color: #FA7921;
+}
+ h1{
+
+    border: 2px solid grey;
+    font-family: 'Indie Flower', cursive;
+    width: 35%;
+    padding-left: 25px;
+
+
+
+ }
+
+
+
+h2{
+  border: 2px solid grey;
+  font-family: 'Indie Flower', cursive;
+  width: 25%;
+
+
+}
+
+p{
+
+  font-family: 'Indie Flower', cursive;
+  padding-left: 20%;
+  padding-right: 20%;
+  padding-top: 5%;
+
+
+
+}
+
+body{
+font-family: 'Indie Flower', cursive;
+background-color: lightgrey;
+border: 60px solid white;
+border-top: 0px;
+
+}
+form{
+
+  font-size: 1.5em;
+  font-family: 'Indie Flower', cursive;
+  padding-left: 20%;
+  padding-right: 20%;
+  padding-top: 5%;
+  margin-bottom: 20px;
+}
+#submit{
+
+background-color: gold;
+height: 50px;
+width: 100px;
+margin-top: 10px;
+border-radius: 25px;
+font-size: 0.5em;
+margin: 5px;
+}
